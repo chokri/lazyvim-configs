@@ -46,6 +46,6 @@ return {
         command = "html-lsp",
       },
     },
-    notify_on_error = true,
+    notify_on_error = false,
   },
 }
